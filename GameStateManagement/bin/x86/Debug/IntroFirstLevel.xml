@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<XnaContent>
+  <Level>
+    <LevelObject>
+      <Player X="210" Y="455" Z="0" />
+      <Floor X="247" Y="474" Z="0" Rotation_X="0" Rotation_Y="0" Rotation_Z="0" Rotation_W="1" />
+      <Floor X="352" Y="474" Z="0" Rotation_X="0" Rotation_Y="0" Rotation_Z="0" Rotation_W="1" />
+      <Floor X="457" Y="474" Z="0" Rotation_X="0" Rotation_Y="0" Rotation_Z="0" Rotation_W="1" />
+      <Floor X="562" Y="474" Z="0" Rotation_X="0" Rotation_Y="0" Rotation_Z="0" Rotation_W="1" />
+      <Floor X="667" Y="474" Z="0" Rotation_X="0" Rotation_Y="0" Rotation_Z="0" Rotation_W="1" />
+      <Floor X="772" Y="474" Z="0" Rotation_X="0" Rotation_Y="0" Rotation_Z="0" Rotation_W="1" />
+      <Floor X="772" Y="324" Z="0" Rotation_X="0" Rotation_Y="0" Rotation_Z="0" Rotation_W="1" />
+      <Floor X="667" Y="324" Z="0" Rotation_X="0" Rotation_Y="0" Rotation_Z="0" Rotation_W="1" />
+      <Floor X="562" Y="324" Z="0" Rotation_X="0" Rotation_Y="0" Rotation_Z="0" Rotation_W="1" />
+      <Floor X="457" Y="324" Z="0" Rotation_X="0" Rotation_Y="0" Rotation_Z="0" Rotation_W="1" />
+      <Door X="417" Y="279" Z="0" Rotation_X="0" Rotation_Y="0" Rotation_Z="0" Rotation_W="1" />
+    </LevelObject>
+    <InteractiveObject>
+      <GravityBall Type="int">
+	1
+      </GravityBall>
+      <Ramp Type="int">
+	2
+      </Ramp>
+    </InteractiveObject>
+  </Level>
+</XnaContent>

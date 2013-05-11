@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <Level>
+    <LevelObject>
+	  <Player X="105" Y="80" Z="0"/>
+      <Floor X="100" Y="100" Z="0"/>
+      <Floor X="300" Y="100" Z="0"/>
+      <Floor X="500" Y="100" Z="0"/>
+	  <Door X="400" Y="200" Z="0"/>
+    </LevelObject>
+    <InteractiveObject>
+      <Hammer Type="int">3</Hammer>
+	  <Spring Type="int">2</Spring>
+      <Platform Type="int">5</Platform>
+    </InteractiveObject>
+  </Level>
+</XnaContent>

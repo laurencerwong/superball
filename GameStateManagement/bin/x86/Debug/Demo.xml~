@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+	<Level>
+		<!-- 
+		This level illustrates the usage of the ramps and 
+		gravity ball as a booster. 
+		-->
+		    <LevelObject>
+      <Player X="210" Y="455" Z="0" />
+      <Floor X="247" Y="474" Z="0" Rotation_X="0" Rotation_Y="0" Rotation_Z="0" Rotation_W="1" />
+      <Floor X="352" Y="474" Z="0" Rotation_X="0" Rotation_Y="0" Rotation_Z="0" Rotation_W="1" />
+      <Floor X="457" Y="474" Z="0" Rotation_X="0" Rotation_Y="0" Rotation_Z="0" Rotation_W="1" />
+      <Floor X="562" Y="474" Z="0" Rotation_X="0" Rotation_Y="0" Rotation_Z="0" Rotation_W="1" />
+      <Floor X="667" Y="474" Z="0" Rotation_X="0" Rotation_Y="0" Rotation_Z="0" Rotation_W="1" />
+      <Floor X="772" Y="474" Z="0" Rotation_X="0" Rotation_Y="0" Rotation_Z="0" Rotation_W="1" />
+      <Floor X="772" Y="324" Z="0" Rotation_X="0" Rotation_Y="0" Rotation_Z="0" Rotation_W="1" />
+      <Floor X="667" Y="324" Z="0" Rotation_X="0" Rotation_Y="0" Rotation_Z="0" Rotation_W="1" />
+      <Floor X="562" Y="324" Z="0" Rotation_X="0" Rotation_Y="0" Rotation_Z="0" Rotation_W="1" />
+      <Floor X="457" Y="324" Z="0" Rotation_X="0" Rotation_Y="0" Rotation_Z="0" Rotation_W="1" />
+      <Door X="417" Y="279" Z="0" Rotation_X="0" Rotation_Y="0" Rotation_Z="0" Rotation_W="1" />
+    </LevelObject>
+		<InteractiveObject>
+			<Hammer Type="int">0</Hammer>
+			<Spring Type="int">0</Spring>
+			<Platform Type="int">0</Platform>
+			<Ramp Type="int">2</Ramp>
+			<GravityBall Type="int">1</GravityBall>
+		</InteractiveObject>
+	</Level>
+	<Level>
+		<!--
+		Ideally this is the first level, which only requires either one platform
+		placement or a single jump to accomplish. 
+		-->
+		<LevelObject>
+			<Player X="205" Y="300" Z="0"/>
+			<Floor X="200" Y="350" Z="0"/>
+			<Floor X="415" Y="350" Z="0"/>
+			<Floor X="520" Y="350" Z="0"/>
+			<Floor X="625" Y="350" Z="0"/>
+			<Floor X="730" Y="350" Z="0"/>
+			<Door X="775" Y="305" Z="0"/>
+		</LevelObject>
+		<InteractiveObject>
+			<Hammer Type="int">1</Hammer>
+			<Spring Type="int">1</Spring>
+			<Platform Type="int">1</Platform>
+			<Ramp Type="int">1</Ramp>
+			<GravityBall Type="int">1</GravityBall>
+		</InteractiveObject>
+	</Level>
+	<Level>
+		<!-- Another simple level that illustrates the use of the spring. -->
+		<LevelObject>
+			<Player X="355" Y="400" Z="0"/>
+			<Floor X="350" Y="450" Z="0"/>
+			<Floor X="530" Y="250" Z="0"/>
+			<Door X="575" Y="205" Z="0"/>
+		</LevelObject>
+		<InteractiveObject>
+			<Hammer Type="int">0</Hammer>
+			<Spring Type="int">1</Spring>
+			<Platform Type="int">0</Platform>
+			<Ramp Type="int">0</Ramp>
+			<GravityBall Type="int">0</GravityBall>
+		</InteractiveObject>
+	</Level>
+	<Level>
+		<!--
+		This is a more difficult level that requires placement of 1 hammer
+		and timing to win.
+
+		Beat this level by placing a hammer at the last platform
+		and timing your jumps so that you reach the last platform
+		right before the hammer hits the ball, propelling it towards
+		the door.
+		-->
+		<LevelObject>
+			<Player X="205" Y="410" Z="0"/>
+			<Floor X="200" Y="430" Z="0"/>
+			<Floor X="305" Y="400" Z="0"/>
+			<Floor X="410" Y="370" Z="0"/>
+			<Door X="685" Y="400" Z="0"/>
+			<Floor X="685" Y="440" Z="0"/>
+		</LevelObject>
+		<InteractiveObject>
+			<Hammer Type="int">1</Hammer>
+			<Spring Type="int">0</Spring>
+			<Platform Type="int">0</Platform>
+		</InteractiveObject>
+	</Level>
+</XnaContent>

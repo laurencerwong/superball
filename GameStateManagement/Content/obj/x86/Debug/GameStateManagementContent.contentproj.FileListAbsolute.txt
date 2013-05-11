@@ -1,0 +1,2 @@
+G:\Users\Laurence\Documents\ITP380\Final Project Trunk\GameStateManagement\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Users\Laurence\Documents\ITP380\Final Project Trunk\GameStateManagement\Content\obj\x86\Debug\Sounds.xml
