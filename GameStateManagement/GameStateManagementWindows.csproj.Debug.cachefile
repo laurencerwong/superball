@@ -12,6 +12,7 @@ Content\gravityballtexture.xnb
 Content\ramptexture.xnb
 Content\squareplatformboostertexture.xnb
 Content\skyboxtexture.xnb
+Content\circletexture.xnb
 Content\gamefont.xnb
 Content\menufont.xnb
 Content\fpsfont.xnb
@@ -23,6 +24,7 @@ Content\Shaders\BloomExtractHighlights.xnb
 Content\Shaders\BloomRecombine.xnb
 Content\Shaders\DepthTexture.xnb
 Content\Shaders\MotionBlur.xnb
+Content\Shaders\MotionBlurCombine.xnb
 Content\squareplatform.xnb
 Content\door.xnb
 Content\ball.xnb
@@ -43,8 +45,6 @@ Content\gravityballtexture_0.xnb
 Content\ramptexture_0.xnb
 Content\squareplatformboostertexture_0.xnb
 Content\skyboxtexture_0.xnb
-Content\Shaders\MotionBlurCombine.xnb
-Content\circletexture.xnb
 Content\gameplaymusic.wma
 Content\Sounds.xgs
 Content\XNAsteroids Waves.xwb

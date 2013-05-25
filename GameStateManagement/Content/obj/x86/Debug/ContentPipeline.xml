@@ -7,8 +7,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>G:\Users\Laurence\Documents\ITP380\Final Project Trunk\GameStateManagement\bin\x86\Debug\Content\background.xnb</Output>
-      <Time>2013-04-04T19:43:07.5998417-07:00</Time>
+      <Output>G:\Users\Laurence\Documents\ITP380\goldberg-good\GameStateManagement\bin\x86\Debug\Content\background.xnb</Output>
+      <Time>2013-05-24T22:52:28.7807569-07:00</Time>
     </Item>
     <Item>
       <Source>blank.png</Source>
@@ -16,8 +16,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>G:\Users\Laurence\Documents\ITP380\Final Project Trunk\GameStateManagement\bin\x86\Debug\Content\blank.xnb</Output>
-      <Time>2013-04-04T19:43:07.8888582-07:00</Time>
+      <Output>G:\Users\Laurence\Documents\ITP380\goldberg-good\GameStateManagement\bin\x86\Debug\Content\blank.xnb</Output>
+      <Time>2013-05-24T22:52:28.956767-07:00</Time>
     </Item>
     <Item>
       <Source>gradient.png</Source>
@@ -25,8 +25,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>G:\Users\Laurence\Documents\ITP380\Final Project Trunk\GameStateManagement\bin\x86\Debug\Content\gradient.xnb</Output>
-      <Time>2013-04-04T19:43:06.2867666-07:00</Time>
+      <Output>G:\Users\Laurence\Documents\ITP380\goldberg-good\GameStateManagement\bin\x86\Debug\Content\gradient.xnb</Output>
+      <Time>2013-05-24T22:52:28.6807512-07:00</Time>
     </Item>
     <Item>
       <Source>supermariostar.png</Source>
@@ -34,8 +34,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>G:\Users\Laurence\Documents\ITP380\Final Project Trunk\GameStateManagement\bin\x86\Debug\Content\supermariostar.xnb</Output>
-      <Time>2013-04-04T19:43:07.6058421-07:00</Time>
+      <Output>G:\Users\Laurence\Documents\ITP380\goldberg-good\GameStateManagement\bin\x86\Debug\Content\supermariostar.xnb</Output>
+      <Time>2013-05-24T22:52:28.5677447-07:00</Time>
     </Item>
     <Item>
       <Source>squareplatformtexture.png</Source>
@@ -43,8 +43,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>G:\Users\Laurence\Documents\ITP380\Final Project Trunk\GameStateManagement\bin\x86\Debug\Content\squareplatformtexture.xnb</Output>
-      <Time>2013-04-09T12:35:38.372703-07:00</Time>
+      <Output>G:\Users\Laurence\Documents\ITP380\goldberg-good\GameStateManagement\bin\x86\Debug\Content\squareplatformtexture.xnb</Output>
+      <Time>2013-05-24T22:52:28.9517667-07:00</Time>
     </Item>
     <Item>
       <Source>doortexture.png</Source>
@@ -52,8 +52,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>G:\Users\Laurence\Documents\ITP380\Final Project Trunk\GameStateManagement\bin\x86\Debug\Content\doortexture.xnb</Output>
-      <Time>2013-04-04T19:43:07.622843-07:00</Time>
+      <Output>G:\Users\Laurence\Documents\ITP380\goldberg-good\GameStateManagement\bin\x86\Debug\Content\doortexture.xnb</Output>
+      <Time>2013-05-24T22:52:28.8057583-07:00</Time>
     </Item>
     <Item>
       <Source>balltexture.png</Source>
@@ -61,8 +61,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>G:\Users\Laurence\Documents\ITP380\Final Project Trunk\GameStateManagement\bin\x86\Debug\Content\balltexture.xnb</Output>
-      <Time>2013-04-09T13:19:11.2871531-07:00</Time>
+      <Output>G:\Users\Laurence\Documents\ITP380\goldberg-good\GameStateManagement\bin\x86\Debug\Content\balltexture.xnb</Output>
+      <Time>2013-05-24T22:52:28.5857457-07:00</Time>
     </Item>
     <Item>
       <Source>hammertexture.png</Source>
@@ -70,8 +70,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>G:\Users\Laurence\Documents\ITP380\Final Project Trunk\GameStateManagement\bin\x86\Debug\Content\hammertexture.xnb</Output>
-      <Time>2013-04-04T19:43:07.9218601-07:00</Time>
+      <Output>G:\Users\Laurence\Documents\ITP380\goldberg-good\GameStateManagement\bin\x86\Debug\Content\hammertexture.xnb</Output>
+      <Time>2013-05-24T22:52:28.5817455-07:00</Time>
     </Item>
     <Item>
       <Source>springtexture.png</Source>
@@ -79,8 +79,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>G:\Users\Laurence\Documents\ITP380\Final Project Trunk\GameStateManagement\bin\x86\Debug\Content\springtexture.xnb</Output>
-      <Time>2013-04-04T19:43:07.6178427-07:00</Time>
+      <Output>G:\Users\Laurence\Documents\ITP380\goldberg-good\GameStateManagement\bin\x86\Debug\Content\springtexture.xnb</Output>
+      <Time>2013-05-24T22:52:28.7947577-07:00</Time>
     </Item>
     <Item>
       <Source>background2.png</Source>
@@ -88,8 +88,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>G:\Users\Laurence\Documents\ITP380\Final Project Trunk\GameStateManagement\bin\x86\Debug\Content\background2.xnb</Output>
-      <Time>2013-04-07T16:05:47.5643845-07:00</Time>
+      <Output>G:\Users\Laurence\Documents\ITP380\goldberg-good\GameStateManagement\bin\x86\Debug\Content\background2.xnb</Output>
+      <Time>2013-05-24T22:52:28.7097528-07:00</Time>
     </Item>
     <Item>
       <Source>gravityballtexture.png</Source>
@@ -97,8 +97,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>G:\Users\Laurence\Documents\ITP380\Final Project Trunk\GameStateManagement\bin\x86\Debug\Content\gravityballtexture.xnb</Output>
-      <Time>2013-04-13T11:47:28.0084169-07:00</Time>
+      <Output>G:\Users\Laurence\Documents\ITP380\goldberg-good\GameStateManagement\bin\x86\Debug\Content\gravityballtexture.xnb</Output>
+      <Time>2013-05-24T22:52:28.7147531-07:00</Time>
     </Item>
     <Item>
       <Source>ramptexture.png</Source>
@@ -106,8 +106,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>G:\Users\Laurence\Documents\ITP380\Final Project Trunk\GameStateManagement\bin\x86\Debug\Content\ramptexture.xnb</Output>
-      <Time>2013-05-02T10:27:55.9997231-07:00</Time>
+      <Output>G:\Users\Laurence\Documents\ITP380\goldberg-good\GameStateManagement\bin\x86\Debug\Content\ramptexture.xnb</Output>
+      <Time>2013-05-24T22:52:28.7847571-07:00</Time>
     </Item>
     <Item>
       <Source>squareplatformboostertexture.png</Source>
@@ -115,8 +115,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>G:\Users\Laurence\Documents\ITP380\Final Project Trunk\GameStateManagement\bin\x86\Debug\Content\squareplatformboostertexture.xnb</Output>
-      <Time>2013-04-14T23:20:54.1529496-07:00</Time>
+      <Output>G:\Users\Laurence\Documents\ITP380\goldberg-good\GameStateManagement\bin\x86\Debug\Content\squareplatformboostertexture.xnb</Output>
+      <Time>2013-05-24T22:52:28.5717449-07:00</Time>
     </Item>
     <Item>
       <Source>skyboxtexture.png</Source>
@@ -124,8 +124,17 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>G:\Users\Laurence\Documents\ITP380\Final Project Trunk\GameStateManagement\bin\x86\Debug\Content\skyboxtexture.xnb</Output>
-      <Time>2013-04-27T16:48:32.7212753-07:00</Time>
+      <Output>G:\Users\Laurence\Documents\ITP380\goldberg-good\GameStateManagement\bin\x86\Debug\Content\skyboxtexture.xnb</Output>
+      <Time>2013-05-24T22:52:28.7037525-07:00</Time>
+    </Item>
+    <Item>
+      <Source>circletexture.png</Source>
+      <Name>circletexture</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Users\Laurence\Documents\ITP380\goldberg-good\GameStateManagement\bin\x86\Debug\Content\circletexture.xnb</Output>
+      <Time>2013-05-24T22:52:28.7897574-07:00</Time>
     </Item>
     <Item>
       <Source>gamefont.spritefont</Source>
@@ -133,8 +142,8 @@
       <Importer>FontDescriptionImporter</Importer>
       <Processor>FontDescriptionProcessor</Processor>
       <Options>None</Options>
-      <Output>G:\Users\Laurence\Documents\ITP380\Final Project Trunk\GameStateManagement\bin\x86\Debug\Content\gamefont.xnb</Output>
-      <Time>2013-04-07T15:15:12.9738159-07:00</Time>
+      <Output>G:\Users\Laurence\Documents\ITP380\goldberg-good\GameStateManagement\bin\x86\Debug\Content\gamefont.xnb</Output>
+      <Time>2013-05-24T22:52:16.877076-07:00</Time>
     </Item>
     <Item>
       <Source>menufont.spritefont</Source>
@@ -142,8 +151,8 @@
       <Importer>FontDescriptionImporter</Importer>
       <Processor>FontDescriptionProcessor</Processor>
       <Options>None</Options>
-      <Output>G:\Users\Laurence\Documents\ITP380\Final Project Trunk\GameStateManagement\bin\x86\Debug\Content\menufont.xnb</Output>
-      <Time>2013-04-07T16:05:47.5693848-07:00</Time>
+      <Output>G:\Users\Laurence\Documents\ITP380\goldberg-good\GameStateManagement\bin\x86\Debug\Content\menufont.xnb</Output>
+      <Time>2013-05-24T22:52:28.7257537-07:00</Time>
     </Item>
     <Item>
       <Source>fpsfont.spritefont</Source>
@@ -151,8 +160,8 @@
       <Importer>FontDescriptionImporter</Importer>
       <Processor>FontDescriptionProcessor</Processor>
       <Options>None</Options>
-      <Output>G:\Users\Laurence\Documents\ITP380\Final Project Trunk\GameStateManagement\bin\x86\Debug\Content\fpsfont.xnb</Output>
-      <Time>2013-04-04T19:43:07.8948586-07:00</Time>
+      <Output>G:\Users\Laurence\Documents\ITP380\goldberg-good\GameStateManagement\bin\x86\Debug\Content\fpsfont.xnb</Output>
+      <Time>2013-05-24T22:52:28.5767452-07:00</Time>
     </Item>
     <Item>
       <Source>Asteroid.x</Source>
@@ -160,11 +169,11 @@
       <Importer>XImporter</Importer>
       <Processor>ModelProcessor</Processor>
       <Options>None</Options>
-      <Output>G:\Users\Laurence\Documents\ITP380\Final Project Trunk\GameStateManagement\bin\x86\Debug\Content\Asteroid.xnb</Output>
-      <Time>2013-04-04T19:43:06.3837722-07:00</Time>
+      <Output>G:\Users\Laurence\Documents\ITP380\goldberg-good\GameStateManagement\bin\x86\Debug\Content\Asteroid.xnb</Output>
+      <Time>2013-05-24T22:52:28.6757509-07:00</Time>
       <Dependency>
         <Key>obj\x86\Debug\Asteroid_0.xml</Key>
-        <Value>2013-04-28T21:15:32.4746698-07:00</Value>
+        <Value>2013-05-24T22:52:51.7860727-07:00</Value>
       </Dependency>
     </Item>
     <Item>
@@ -173,11 +182,11 @@
       <Importer>XImporter</Importer>
       <Processor>ModelProcessor</Processor>
       <Options>None</Options>
-      <Output>G:\Users\Laurence\Documents\ITP380\Final Project Trunk\GameStateManagement\bin\x86\Debug\Content\Ship.xnb</Output>
-      <Time>2013-04-04T19:43:07.8778576-07:00</Time>
+      <Output>G:\Users\Laurence\Documents\ITP380\goldberg-good\GameStateManagement\bin\x86\Debug\Content\Ship.xnb</Output>
+      <Time>2013-05-24T22:52:28.8217592-07:00</Time>
       <Dependency>
         <Key>obj\x86\Debug\Ship_0.xml</Key>
-        <Value>2013-04-28T21:15:32.7196838-07:00</Value>
+        <Value>2013-05-24T22:52:51.9870842-07:00</Value>
       </Dependency>
     </Item>
     <Item>
@@ -186,11 +195,11 @@
       <Importer>XImporter</Importer>
       <Processor>ModelProcessor</Processor>
       <Options>None</Options>
-      <Output>G:\Users\Laurence\Documents\ITP380\Final Project Trunk\GameStateManagement\bin\x86\Debug\Content\Missile.xnb</Output>
-      <Time>2013-04-04T19:43:07.9098594-07:00</Time>
+      <Output>G:\Users\Laurence\Documents\ITP380\goldberg-good\GameStateManagement\bin\x86\Debug\Content\Missile.xnb</Output>
+      <Time>2013-05-24T22:52:28.9707678-07:00</Time>
       <Dependency>
         <Key>obj\x86\Debug\Missile_0.xml</Key>
-        <Value>2013-04-28T21:15:32.7786872-07:00</Value>
+        <Value>2013-05-24T22:52:52.0410873-07:00</Value>
       </Dependency>
     </Item>
     <Item>
@@ -199,8 +208,8 @@
       <Importer>EffectImporter</Importer>
       <Processor>EffectProcessor</Processor>
       <Options>None</Options>
-      <Output>G:\Users\Laurence\Documents\ITP380\Final Project Trunk\GameStateManagement\bin\x86\Debug\Content\Shaders\BloomBlurHighlights.xnb</Output>
-      <Time>2013-04-04T19:43:06.4347751-07:00</Time>
+      <Output>G:\Users\Laurence\Documents\ITP380\goldberg-good\GameStateManagement\bin\x86\Debug\Content\Shaders\BloomBlurHighlights.xnb</Output>
+      <Time>2013-05-24T22:52:16.8280732-07:00</Time>
     </Item>
     <Item>
       <Source>Shaders\BloomExtractHighlights.fx</Source>
@@ -208,8 +217,8 @@
       <Importer>EffectImporter</Importer>
       <Processor>EffectProcessor</Processor>
       <Options>None</Options>
-      <Output>G:\Users\Laurence\Documents\ITP380\Final Project Trunk\GameStateManagement\bin\x86\Debug\Content\Shaders\BloomExtractHighlights.xnb</Output>
-      <Time>2013-04-06T20:13:15.5440703-07:00</Time>
+      <Output>G:\Users\Laurence\Documents\ITP380\goldberg-good\GameStateManagement\bin\x86\Debug\Content\Shaders\BloomExtractHighlights.xnb</Output>
+      <Time>2013-05-24T22:52:16.8430741-07:00</Time>
     </Item>
     <Item>
       <Source>Shaders\BloomRecombine.fx</Source>
@@ -217,8 +226,8 @@
       <Importer>EffectImporter</Importer>
       <Processor>EffectProcessor</Processor>
       <Options>None</Options>
-      <Output>G:\Users\Laurence\Documents\ITP380\Final Project Trunk\GameStateManagement\bin\x86\Debug\Content\Shaders\BloomRecombine.xnb</Output>
-      <Time>2013-04-28T22:41:52.4399469-07:00</Time>
+      <Output>G:\Users\Laurence\Documents\ITP380\goldberg-good\GameStateManagement\bin\x86\Debug\Content\Shaders\BloomRecombine.xnb</Output>
+      <Time>2013-05-24T22:52:16.8380738-07:00</Time>
     </Item>
     <Item>
       <Source>Shaders\DepthTexture.fx</Source>
@@ -226,8 +235,8 @@
       <Importer>EffectImporter</Importer>
       <Processor>EffectProcessor</Processor>
       <Options>None</Options>
-      <Output>G:\Users\Laurence\Documents\ITP380\Final Project Trunk\GameStateManagement\bin\x86\Debug\Content\Shaders\DepthTexture.xnb</Output>
-      <Time>2013-04-29T23:04:03.614107-07:00</Time>
+      <Output>G:\Users\Laurence\Documents\ITP380\goldberg-good\GameStateManagement\bin\x86\Debug\Content\Shaders\DepthTexture.xnb</Output>
+      <Time>2013-05-24T22:52:16.8190727-07:00</Time>
     </Item>
     <Item>
       <Source>Shaders\MotionBlur.fx</Source>
@@ -235,8 +244,17 @@
       <Importer>EffectImporter</Importer>
       <Processor>EffectProcessor</Processor>
       <Options>None</Options>
-      <Output>G:\Users\Laurence\Documents\ITP380\Final Project Trunk\GameStateManagement\bin\x86\Debug\Content\Shaders\MotionBlur.xnb</Output>
-      <Time>2013-04-27T19:39:48.2640028-07:00</Time>
+      <Output>G:\Users\Laurence\Documents\ITP380\goldberg-good\GameStateManagement\bin\x86\Debug\Content\Shaders\MotionBlur.xnb</Output>
+      <Time>2013-05-24T22:52:16.8330735-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Shaders\MotionBlurCombine.fx</Source>
+      <Name>Shaders\MotionBlurCombine</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Users\Laurence\Documents\ITP380\goldberg-good\GameStateManagement\bin\x86\Debug\Content\Shaders\MotionBlurCombine.xnb</Output>
+      <Time>2013-05-24T22:52:16.824073-07:00</Time>
     </Item>
     <Item>
       <Source>squareplatform.fbx</Source>
@@ -247,13 +265,13 @@
         <Data Key="RotationX">-90</Data>
       </Parameters>
       <Options>None</Options>
-      <Output>G:\Users\Laurence\Documents\ITP380\Final Project Trunk\GameStateManagement\bin\x86\Debug\Content\squareplatform.xnb</Output>
-      <Time>2013-04-04T20:30:26.5022176-07:00</Time>
+      <Output>G:\Users\Laurence\Documents\ITP380\goldberg-good\GameStateManagement\bin\x86\Debug\Content\squareplatform.xnb</Output>
+      <Time>2013-05-24T22:52:16.7980715-07:00</Time>
       <Dependency>
         <Key>obj\x86\Debug\squareplatform_0.xml</Key>
-        <Value>2013-04-28T21:15:33.1357076-07:00</Value>
+        <Value>2013-05-24T22:52:52.4471105-07:00</Value>
       </Dependency>
-      <Request>G:\Users\Laurence\Documents\ITP380\Final Project Trunk\GameStateManagement\bin\x86\Debug\Content\squareplatformtexture_0.xnb</Request>
+      <Request>G:\Users\Laurence\Documents\ITP380\goldberg-good\GameStateManagement\bin\x86\Debug\Content\squareplatformtexture_0.xnb</Request>
     </Item>
     <Item>
       <Source>door.fbx</Source>
@@ -264,13 +282,13 @@
         <Data Key="RotationX">-90</Data>
       </Parameters>
       <Options>None</Options>
-      <Output>G:\Users\Laurence\Documents\ITP380\Final Project Trunk\GameStateManagement\bin\x86\Debug\Content\door.xnb</Output>
-      <Time>2013-04-04T20:30:36.543792-07:00</Time>
+      <Output>G:\Users\Laurence\Documents\ITP380\goldberg-good\GameStateManagement\bin\x86\Debug\Content\door.xnb</Output>
+      <Time>2013-05-24T22:52:16.7920712-07:00</Time>
       <Dependency>
         <Key>obj\x86\Debug\door_0.xml</Key>
-        <Value>2013-04-28T21:15:33.8337476-07:00</Value>
+        <Value>2013-05-24T22:52:53.1581512-07:00</Value>
       </Dependency>
-      <Request>G:\Users\Laurence\Documents\ITP380\Final Project Trunk\GameStateManagement\bin\x86\Debug\Content\doortexture_0.xnb</Request>
+      <Request>G:\Users\Laurence\Documents\ITP380\goldberg-good\GameStateManagement\bin\x86\Debug\Content\doortexture_0.xnb</Request>
     </Item>
     <Item>
       <Source>ball.fbx</Source>
@@ -281,13 +299,13 @@
         <Data Key="RotationX">-90</Data>
       </Parameters>
       <Options>None</Options>
-      <Output>G:\Users\Laurence\Documents\ITP380\Final Project Trunk\GameStateManagement\bin\x86\Debug\Content\ball.xnb</Output>
-      <Time>2013-04-04T19:43:06.4277747-07:00</Time>
+      <Output>G:\Users\Laurence\Documents\ITP380\goldberg-good\GameStateManagement\bin\x86\Debug\Content\ball.xnb</Output>
+      <Time>2013-05-24T22:52:16.8110723-07:00</Time>
       <Dependency>
         <Key>obj\x86\Debug\ball_0.xml</Key>
-        <Value>2013-04-28T21:15:34.4457826-07:00</Value>
+        <Value>2013-05-24T22:52:53.7691861-07:00</Value>
       </Dependency>
-      <Request>G:\Users\Laurence\Documents\ITP380\Final Project Trunk\GameStateManagement\bin\x86\Debug\Content\balltexture_0.xnb</Request>
+      <Request>G:\Users\Laurence\Documents\ITP380\goldberg-good\GameStateManagement\bin\x86\Debug\Content\balltexture_0.xnb</Request>
     </Item>
     <Item>
       <Source>hammer.fbx</Source>
@@ -298,13 +316,13 @@
         <Data Key="RotationX">-90</Data>
       </Parameters>
       <Options>None</Options>
-      <Output>G:\Users\Laurence\Documents\ITP380\Final Project Trunk\GameStateManagement\bin\x86\Debug\Content\hammer.xnb</Output>
-      <Time>2013-04-04T19:43:06.4197742-07:00</Time>
+      <Output>G:\Users\Laurence\Documents\ITP380\goldberg-good\GameStateManagement\bin\x86\Debug\Content\hammer.xnb</Output>
+      <Time>2013-05-24T22:52:28.7207535-07:00</Time>
       <Dependency>
         <Key>obj\x86\Debug\hammer_0.xml</Key>
-        <Value>2013-04-28T21:15:35.0718184-07:00</Value>
+        <Value>2013-05-24T22:52:54.3882215-07:00</Value>
       </Dependency>
-      <Request>G:\Users\Laurence\Documents\ITP380\Final Project Trunk\GameStateManagement\bin\x86\Debug\Content\hammertexture_0.xnb</Request>
+      <Request>G:\Users\Laurence\Documents\ITP380\goldberg-good\GameStateManagement\bin\x86\Debug\Content\hammertexture_0.xnb</Request>
     </Item>
     <Item>
       <Source>wholehammer.fbx</Source>
@@ -312,13 +330,13 @@
       <Importer>FbxImporter</Importer>
       <Processor>ModelProcessor</Processor>
       <Options>None</Options>
-      <Output>G:\Users\Laurence\Documents\ITP380\Final Project Trunk\GameStateManagement\bin\x86\Debug\Content\wholehammer.xnb</Output>
-      <Time>2013-04-10T12:27:40.6977888-07:00</Time>
+      <Output>G:\Users\Laurence\Documents\ITP380\goldberg-good\GameStateManagement\bin\x86\Debug\Content\wholehammer.xnb</Output>
+      <Time>2013-05-24T22:52:16.8040719-07:00</Time>
       <Dependency>
         <Key>obj\x86\Debug\wholehammer_0.xml</Key>
-        <Value>2013-04-28T21:15:35.7738585-07:00</Value>
+        <Value>2013-05-24T22:52:54.9882559-07:00</Value>
       </Dependency>
-      <Request>G:\Users\Laurence\Documents\ITP380\Final Project Trunk\GameStateManagement\bin\x86\Debug\Content\hammertexture_0.xnb</Request>
+      <Request>G:\Users\Laurence\Documents\ITP380\goldberg-good\GameStateManagement\bin\x86\Debug\Content\hammertexture_0.xnb</Request>
     </Item>
     <Item>
       <Source>spring.fbx</Source>
@@ -329,13 +347,13 @@
         <Data Key="RotationX">-90</Data>
       </Parameters>
       <Options>None</Options>
-      <Output>G:\Users\Laurence\Documents\ITP380\Final Project Trunk\GameStateManagement\bin\x86\Debug\Content\spring.xnb</Output>
-      <Time>2013-04-04T19:43:06.2807663-07:00</Time>
+      <Output>G:\Users\Laurence\Documents\ITP380\goldberg-good\GameStateManagement\bin\x86\Debug\Content\spring.xnb</Output>
+      <Time>2013-05-24T22:52:28.6867515-07:00</Time>
       <Dependency>
         <Key>obj\x86\Debug\spring_0.xml</Key>
-        <Value>2013-04-28T21:15:35.851863-07:00</Value>
+        <Value>2013-05-24T22:52:55.0492594-07:00</Value>
       </Dependency>
-      <Request>G:\Users\Laurence\Documents\ITP380\Final Project Trunk\GameStateManagement\bin\x86\Debug\Content\springtexture_0.xnb</Request>
+      <Request>G:\Users\Laurence\Documents\ITP380\goldberg-good\GameStateManagement\bin\x86\Debug\Content\springtexture_0.xnb</Request>
     </Item>
     <Item>
       <Source>gravityball.fbx</Source>
@@ -343,13 +361,13 @@
       <Importer>FbxImporter</Importer>
       <Processor>ModelProcessor</Processor>
       <Options>None</Options>
-      <Output>G:\Users\Laurence\Documents\ITP380\Final Project Trunk\GameStateManagement\bin\x86\Debug\Content\gravityball.xnb</Output>
-      <Time>2013-04-13T11:48:34.3542117-07:00</Time>
+      <Output>G:\Users\Laurence\Documents\ITP380\goldberg-good\GameStateManagement\bin\x86\Debug\Content\gravityball.xnb</Output>
+      <Time>2013-05-24T22:52:28.5407432-07:00</Time>
       <Dependency>
         <Key>obj\x86\Debug\gravityball_0.xml</Key>
-        <Value>2013-04-28T21:15:36.5609035-07:00</Value>
+        <Value>2013-05-24T22:52:55.6622944-07:00</Value>
       </Dependency>
-      <Request>G:\Users\Laurence\Documents\ITP380\Final Project Trunk\GameStateManagement\bin\x86\Debug\Content\gravityballtexture_0.xnb</Request>
+      <Request>G:\Users\Laurence\Documents\ITP380\goldberg-good\GameStateManagement\bin\x86\Debug\Content\gravityballtexture_0.xnb</Request>
     </Item>
     <Item>
       <Source>ramp.fbx</Source>
@@ -357,13 +375,13 @@
       <Importer>FbxImporter</Importer>
       <Processor>ModelProcessor</Processor>
       <Options>None</Options>
-      <Output>G:\Users\Laurence\Documents\ITP380\Final Project Trunk\GameStateManagement\bin\x86\Debug\Content\ramp.xnb</Output>
-      <Time>2013-05-02T10:49:31.7698369-07:00</Time>
+      <Output>G:\Users\Laurence\Documents\ITP380\goldberg-good\GameStateManagement\bin\x86\Debug\Content\ramp.xnb</Output>
+      <Time>2013-05-24T22:52:28.9827684-07:00</Time>
       <Dependency>
         <Key>obj\x86\Debug\ramp_0.xml</Key>
-        <Value>2013-05-02T10:49:34.4529904-07:00</Value>
+        <Value>2013-05-24T22:52:56.302331-07:00</Value>
       </Dependency>
-      <Request>G:\Users\Laurence\Documents\ITP380\Final Project Trunk\GameStateManagement\bin\x86\Debug\Content\ramptexture_0.xnb</Request>
+      <Request>G:\Users\Laurence\Documents\ITP380\goldberg-good\GameStateManagement\bin\x86\Debug\Content\ramptexture_0.xnb</Request>
     </Item>
     <Item>
       <Source>squareplatformbooster.fbx</Source>
@@ -371,13 +389,13 @@
       <Importer>FbxImporter</Importer>
       <Processor>ModelProcessor</Processor>
       <Options>None</Options>
-      <Output>G:\Users\Laurence\Documents\ITP380\Final Project Trunk\GameStateManagement\bin\x86\Debug\Content\squareplatformbooster.xnb</Output>
-      <Time>2013-04-14T23:16:16.8950913-07:00</Time>
+      <Output>G:\Users\Laurence\Documents\ITP380\goldberg-good\GameStateManagement\bin\x86\Debug\Content\squareplatformbooster.xnb</Output>
+      <Time>2013-05-24T22:52:28.6927519-07:00</Time>
       <Dependency>
         <Key>obj\x86\Debug\squareplatformbooster_0.xml</Key>
-        <Value>2013-04-28T21:15:37.8189755-07:00</Value>
+        <Value>2013-05-24T22:52:57.0203721-07:00</Value>
       </Dependency>
-      <Request>G:\Users\Laurence\Documents\ITP380\Final Project Trunk\GameStateManagement\bin\x86\Debug\Content\squareplatformboostertexture_0.xnb</Request>
+      <Request>G:\Users\Laurence\Documents\ITP380\goldberg-good\GameStateManagement\bin\x86\Debug\Content\squareplatformboostertexture_0.xnb</Request>
     </Item>
     <Item>
       <Source>skybox.fbx</Source>
@@ -385,13 +403,13 @@
       <Importer>FbxImporter</Importer>
       <Processor>ModelProcessor</Processor>
       <Options>None</Options>
-      <Output>G:\Users\Laurence\Documents\ITP380\Final Project Trunk\GameStateManagement\bin\x86\Debug\Content\skybox.xnb</Output>
-      <Time>2013-04-27T15:43:10.4049317-07:00</Time>
+      <Output>G:\Users\Laurence\Documents\ITP380\goldberg-good\GameStateManagement\bin\x86\Debug\Content\skybox.xnb</Output>
+      <Time>2013-05-24T22:52:28.7317541-07:00</Time>
       <Dependency>
         <Key>obj\x86\Debug\skybox_0.xml</Key>
-        <Value>2013-04-28T21:15:38.5400167-07:00</Value>
+        <Value>2013-05-24T22:52:57.7064113-07:00</Value>
       </Dependency>
-      <Request>G:\Users\Laurence\Documents\ITP380\Final Project Trunk\GameStateManagement\bin\x86\Debug\Content\skyboxtexture_0.xnb</Request>
+      <Request>G:\Users\Laurence\Documents\ITP380\goldberg-good\GameStateManagement\bin\x86\Debug\Content\skyboxtexture_0.xnb</Request>
     </Item>
     <Item>
       <Source>gameplaymusic.mp3</Source>
@@ -399,37 +417,37 @@
       <Importer>Mp3Importer</Importer>
       <Processor>SongProcessor</Processor>
       <Options>None</Options>
-      <Output>G:\Users\Laurence\Documents\ITP380\Final Project Trunk\GameStateManagement\bin\x86\Debug\Content\gameplaymusic.xnb</Output>
-      <Extra>G:\Users\Laurence\Documents\ITP380\Final Project Trunk\GameStateManagement\bin\x86\Debug\Content\gameplaymusic.wma</Extra>
-      <Time>2013-04-09T22:32:15.1638594-07:00</Time>
+      <Output>G:\Users\Laurence\Documents\ITP380\goldberg-good\GameStateManagement\bin\x86\Debug\Content\gameplaymusic.xnb</Output>
+      <Extra>G:\Users\Laurence\Documents\ITP380\goldberg-good\GameStateManagement\bin\x86\Debug\Content\gameplaymusic.wma</Extra>
+      <Time>2013-05-24T22:52:28.5507437-07:00</Time>
     </Item>
     <Item>
       <Source>Asteroid.x</Source>
       <Importer>XImporter</Importer>
       <Options>IntermediateFile, DontCacheImportedData</Options>
       <Output>obj\x86\Debug\Asteroid_0.xml</Output>
-      <Time>2013-04-04T19:43:06.3837722-07:00</Time>
+      <Time>2013-05-24T22:52:28.6757509-07:00</Time>
     </Item>
     <Item>
       <Source>Ship.x</Source>
       <Importer>XImporter</Importer>
       <Options>IntermediateFile, DontCacheImportedData</Options>
       <Output>obj\x86\Debug\Ship_0.xml</Output>
-      <Time>2013-04-04T19:43:07.8778576-07:00</Time>
+      <Time>2013-05-24T22:52:28.8217592-07:00</Time>
     </Item>
     <Item>
       <Source>Missile.x</Source>
       <Importer>XImporter</Importer>
       <Options>IntermediateFile, DontCacheImportedData</Options>
       <Output>obj\x86\Debug\Missile_0.xml</Output>
-      <Time>2013-04-04T19:43:07.9098594-07:00</Time>
+      <Time>2013-05-24T22:52:28.9707678-07:00</Time>
     </Item>
     <Item>
       <Source>squareplatform.fbx</Source>
       <Importer>FbxImporter</Importer>
       <Options>IntermediateFile, DontCacheImportedData</Options>
       <Output>obj\x86\Debug\squareplatform_0.xml</Output>
-      <Time>2013-04-04T20:30:26.5022176-07:00</Time>
+      <Time>2013-05-24T22:52:16.7980715-07:00</Time>
     </Item>
     <Item>
       <Source>squareplatformtexture.png</Source>
@@ -444,15 +462,15 @@
         <Data Key="PremultiplyAlpha" Type="bool">true</Data>
       </Parameters>
       <Options>None</Options>
-      <Output>G:\Users\Laurence\Documents\ITP380\Final Project Trunk\GameStateManagement\bin\x86\Debug\Content\squareplatformtexture_0.xnb</Output>
-      <Time>2013-04-09T12:35:38.372703-07:00</Time>
+      <Output>G:\Users\Laurence\Documents\ITP380\goldberg-good\GameStateManagement\bin\x86\Debug\Content\squareplatformtexture_0.xnb</Output>
+      <Time>2013-05-24T22:52:28.9517667-07:00</Time>
     </Item>
     <Item>
       <Source>door.fbx</Source>
       <Importer>FbxImporter</Importer>
       <Options>IntermediateFile, DontCacheImportedData</Options>
       <Output>obj\x86\Debug\door_0.xml</Output>
-      <Time>2013-04-04T20:30:36.543792-07:00</Time>
+      <Time>2013-05-24T22:52:16.7920712-07:00</Time>
     </Item>
     <Item>
       <Source>doortexture.png</Source>
@@ -467,15 +485,15 @@
         <Data Key="PremultiplyAlpha" Type="bool">true</Data>
       </Parameters>
       <Options>None</Options>
-      <Output>G:\Users\Laurence\Documents\ITP380\Final Project Trunk\GameStateManagement\bin\x86\Debug\Content\doortexture_0.xnb</Output>
-      <Time>2013-04-04T19:43:07.622843-07:00</Time>
+      <Output>G:\Users\Laurence\Documents\ITP380\goldberg-good\GameStateManagement\bin\x86\Debug\Content\doortexture_0.xnb</Output>
+      <Time>2013-05-24T22:52:28.8057583-07:00</Time>
     </Item>
     <Item>
       <Source>ball.fbx</Source>
       <Importer>FbxImporter</Importer>
       <Options>IntermediateFile, DontCacheImportedData</Options>
       <Output>obj\x86\Debug\ball_0.xml</Output>
-      <Time>2013-04-04T19:43:06.4277747-07:00</Time>
+      <Time>2013-05-24T22:52:16.8110723-07:00</Time>
     </Item>
     <Item>
       <Source>balltexture.png</Source>
@@ -490,15 +508,15 @@
         <Data Key="PremultiplyAlpha" Type="bool">true</Data>
       </Parameters>
       <Options>None</Options>
-      <Output>G:\Users\Laurence\Documents\ITP380\Final Project Trunk\GameStateManagement\bin\x86\Debug\Content\balltexture_0.xnb</Output>
-      <Time>2013-04-09T13:19:11.2871531-07:00</Time>
+      <Output>G:\Users\Laurence\Documents\ITP380\goldberg-good\GameStateManagement\bin\x86\Debug\Content\balltexture_0.xnb</Output>
+      <Time>2013-05-24T22:52:28.5857457-07:00</Time>
     </Item>
     <Item>
       <Source>hammer.fbx</Source>
       <Importer>FbxImporter</Importer>
       <Options>IntermediateFile, DontCacheImportedData</Options>
       <Output>obj\x86\Debug\hammer_0.xml</Output>
-      <Time>2013-04-04T19:43:06.4197742-07:00</Time>
+      <Time>2013-05-24T22:52:28.7207535-07:00</Time>
     </Item>
     <Item>
       <Source>hammertexture.png</Source>
@@ -513,22 +531,22 @@
         <Data Key="PremultiplyAlpha" Type="bool">true</Data>
       </Parameters>
       <Options>None</Options>
-      <Output>G:\Users\Laurence\Documents\ITP380\Final Project Trunk\GameStateManagement\bin\x86\Debug\Content\hammertexture_0.xnb</Output>
-      <Time>2013-04-04T19:43:07.9218601-07:00</Time>
+      <Output>G:\Users\Laurence\Documents\ITP380\goldberg-good\GameStateManagement\bin\x86\Debug\Content\hammertexture_0.xnb</Output>
+      <Time>2013-05-24T22:52:28.5817455-07:00</Time>
     </Item>
     <Item>
       <Source>wholehammer.fbx</Source>
       <Importer>FbxImporter</Importer>
       <Options>IntermediateFile, DontCacheImportedData</Options>
       <Output>obj\x86\Debug\wholehammer_0.xml</Output>
-      <Time>2013-04-10T12:27:40.6977888-07:00</Time>
+      <Time>2013-05-24T22:52:16.8040719-07:00</Time>
     </Item>
     <Item>
       <Source>spring.fbx</Source>
       <Importer>FbxImporter</Importer>
       <Options>IntermediateFile, DontCacheImportedData</Options>
       <Output>obj\x86\Debug\spring_0.xml</Output>
-      <Time>2013-04-04T19:43:06.2807663-07:00</Time>
+      <Time>2013-05-24T22:52:28.6867515-07:00</Time>
     </Item>
     <Item>
       <Source>springtexture.png</Source>
@@ -543,15 +561,15 @@
         <Data Key="PremultiplyAlpha" Type="bool">true</Data>
       </Parameters>
       <Options>None</Options>
-      <Output>G:\Users\Laurence\Documents\ITP380\Final Project Trunk\GameStateManagement\bin\x86\Debug\Content\springtexture_0.xnb</Output>
-      <Time>2013-04-04T19:43:07.6178427-07:00</Time>
+      <Output>G:\Users\Laurence\Documents\ITP380\goldberg-good\GameStateManagement\bin\x86\Debug\Content\springtexture_0.xnb</Output>
+      <Time>2013-05-24T22:52:28.7947577-07:00</Time>
     </Item>
     <Item>
       <Source>gravityball.fbx</Source>
       <Importer>FbxImporter</Importer>
       <Options>IntermediateFile, DontCacheImportedData</Options>
       <Output>obj\x86\Debug\gravityball_0.xml</Output>
-      <Time>2013-04-13T11:48:34.3542117-07:00</Time>
+      <Time>2013-05-24T22:52:28.5407432-07:00</Time>
     </Item>
     <Item>
       <Source>gravityballtexture.png</Source>
@@ -566,15 +584,15 @@
         <Data Key="PremultiplyAlpha" Type="bool">true</Data>
       </Parameters>
       <Options>None</Options>
-      <Output>G:\Users\Laurence\Documents\ITP380\Final Project Trunk\GameStateManagement\bin\x86\Debug\Content\gravityballtexture_0.xnb</Output>
-      <Time>2013-04-13T11:47:28.0084169-07:00</Time>
+      <Output>G:\Users\Laurence\Documents\ITP380\goldberg-good\GameStateManagement\bin\x86\Debug\Content\gravityballtexture_0.xnb</Output>
+      <Time>2013-05-24T22:52:28.7147531-07:00</Time>
     </Item>
     <Item>
       <Source>ramp.fbx</Source>
       <Importer>FbxImporter</Importer>
       <Options>IntermediateFile, DontCacheImportedData</Options>
       <Output>obj\x86\Debug\ramp_0.xml</Output>
-      <Time>2013-05-02T10:49:31.7698369-07:00</Time>
+      <Time>2013-05-24T22:52:28.9827684-07:00</Time>
     </Item>
     <Item>
       <Source>ramptexture.png</Source>
@@ -589,15 +607,15 @@
         <Data Key="PremultiplyAlpha" Type="bool">true</Data>
       </Parameters>
       <Options>None</Options>
-      <Output>G:\Users\Laurence\Documents\ITP380\Final Project Trunk\GameStateManagement\bin\x86\Debug\Content\ramptexture_0.xnb</Output>
-      <Time>2013-05-02T10:27:55.9997231-07:00</Time>
+      <Output>G:\Users\Laurence\Documents\ITP380\goldberg-good\GameStateManagement\bin\x86\Debug\Content\ramptexture_0.xnb</Output>
+      <Time>2013-05-24T22:52:28.7847571-07:00</Time>
     </Item>
     <Item>
       <Source>squareplatformbooster.fbx</Source>
       <Importer>FbxImporter</Importer>
       <Options>IntermediateFile, DontCacheImportedData</Options>
       <Output>obj\x86\Debug\squareplatformbooster_0.xml</Output>
-      <Time>2013-04-14T23:16:16.8950913-07:00</Time>
+      <Time>2013-05-24T22:52:28.6927519-07:00</Time>
     </Item>
     <Item>
       <Source>squareplatformboostertexture.png</Source>
@@ -612,15 +630,15 @@
         <Data Key="PremultiplyAlpha" Type="bool">true</Data>
       </Parameters>
       <Options>None</Options>
-      <Output>G:\Users\Laurence\Documents\ITP380\Final Project Trunk\GameStateManagement\bin\x86\Debug\Content\squareplatformboostertexture_0.xnb</Output>
-      <Time>2013-04-14T23:20:54.1529496-07:00</Time>
+      <Output>G:\Users\Laurence\Documents\ITP380\goldberg-good\GameStateManagement\bin\x86\Debug\Content\squareplatformboostertexture_0.xnb</Output>
+      <Time>2013-05-24T22:52:28.5717449-07:00</Time>
     </Item>
     <Item>
       <Source>skybox.fbx</Source>
       <Importer>FbxImporter</Importer>
       <Options>IntermediateFile, DontCacheImportedData</Options>
       <Output>obj\x86\Debug\skybox_0.xml</Output>
-      <Time>2013-04-27T15:43:10.4049317-07:00</Time>
+      <Time>2013-05-24T22:52:28.7317541-07:00</Time>
     </Item>
     <Item>
       <Source>skyboxtexture.png</Source>
@@ -635,26 +653,8 @@
         <Data Key="PremultiplyAlpha" Type="bool">true</Data>
       </Parameters>
       <Options>None</Options>
-      <Output>G:\Users\Laurence\Documents\ITP380\Final Project Trunk\GameStateManagement\bin\x86\Debug\Content\skyboxtexture_0.xnb</Output>
-      <Time>2013-04-27T16:48:32.7212753-07:00</Time>
-    </Item>
-    <Item>
-      <Source>Shaders\MotionBlurCombine.fx</Source>
-      <Name>Shaders\MotionBlurCombine</Name>
-      <Importer>EffectImporter</Importer>
-      <Processor>EffectProcessor</Processor>
-      <Options>None</Options>
-      <Output>G:\Users\Laurence\Documents\ITP380\Final Project Trunk\GameStateManagement\bin\x86\Debug\Content\Shaders\MotionBlurCombine.xnb</Output>
-      <Time>2013-04-28T23:35:12.4369763-07:00</Time>
-    </Item>
-    <Item>
-      <Source>circletexture.png</Source>
-      <Name>circletexture</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-      <Options>None</Options>
-      <Output>G:\Users\Laurence\Documents\ITP380\Final Project Trunk\GameStateManagement\bin\x86\Debug\Content\circletexture.xnb</Output>
-      <Time>2013-04-30T00:20:41.5780955-07:00</Time>
+      <Output>G:\Users\Laurence\Documents\ITP380\goldberg-good\GameStateManagement\bin\x86\Debug\Content\skyboxtexture_0.xnb</Output>
+      <Time>2013-05-24T22:52:28.7037525-07:00</Time>
     </Item>
     <BuildSuccessful>true</BuildSuccessful>
     <Settings>
@@ -662,10 +662,10 @@
       <TargetProfile>HiDef</TargetProfile>
       <BuildConfiguration>Debug</BuildConfiguration>
       <CompressContent>false</CompressContent>
-      <RootDirectory>G:\Users\Laurence\Documents\ITP380\Final Project Trunk\GameStateManagement\Content\</RootDirectory>
-      <LoggerRootDirectory>G:\Users\Laurence\Documents\ITP380\Final Project Trunk\GameStateManagement\</LoggerRootDirectory>
-      <IntermediateDirectory>G:\Users\Laurence\Documents\ITP380\Final Project Trunk\GameStateManagement\Content\obj\x86\Debug\</IntermediateDirectory>
-      <OutputDirectory>G:\Users\Laurence\Documents\ITP380\Final Project Trunk\GameStateManagement\bin\x86\Debug\Content\</OutputDirectory>
+      <RootDirectory>G:\Users\Laurence\Documents\ITP380\goldberg-good\GameStateManagement\Content\</RootDirectory>
+      <LoggerRootDirectory>G:\Users\Laurence\Documents\ITP380\goldberg-good\GameStateManagement\</LoggerRootDirectory>
+      <IntermediateDirectory>G:\Users\Laurence\Documents\ITP380\goldberg-good\GameStateManagement\Content\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>G:\Users\Laurence\Documents\ITP380\goldberg-good\GameStateManagement\bin\x86\Debug\Content\</OutputDirectory>
     </Settings>
     <Assemblies>
       <Assembly>

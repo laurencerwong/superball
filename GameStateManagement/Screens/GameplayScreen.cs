@@ -386,7 +386,7 @@ namespace GameStateManagement
                                 player.body.ApplyCentralImpulse((pointOfContact - player.body.WorldTransform.Translation));
                             }
                         }*/
-                        if (player.body.WorldTransform.Translation.Y < -10000)
+                        if (player.body.WorldTransform.Translation.Y < -3000)
                         {
                             ScreenManager.AddScreen(new LoseScreen());
                         }

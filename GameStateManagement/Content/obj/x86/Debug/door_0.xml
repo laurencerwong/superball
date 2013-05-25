@@ -3,7 +3,7 @@
   <Asset Type="Graphics:MeshContent">
     <Name>Cube_001</Name>
     <Identity>
-      <SourceFilename>G:\Users\Laurence\Documents\ITP380\Final Project Trunk\GameStateManagement\Content\door.fbx</SourceFilename>
+      <SourceFilename>G:\Users\Laurence\Documents\ITP380\goldberg-good\GameStateManagement\Content\door.fbx</SourceFilename>
       <SourceTool>FbxImporter</SourceTool>
     </Identity>
     <Transform>-1 8.742278E-08 8.742278E-08 0 -8.74227837E-08 -1 -8.742278E-08 0 8.742277E-08 -8.742279E-08 1 0 0 0 0 1</Transform>
@@ -26,7 +26,7 @@
     <Resource ID="#Resource1" Type="Graphics:BasicMaterialContent">
       <Name>Material__untitled_003</Name>
       <Identity>
-        <SourceFilename>G:\Users\Laurence\Documents\ITP380\Final Project Trunk\GameStateManagement\Content\door.fbx</SourceFilename>
+        <SourceFilename>G:\Users\Laurence\Documents\ITP380\goldberg-good\GameStateManagement\Content\door.fbx</SourceFilename>
         <SourceTool>FbxImporter</SourceTool>
       </Identity>
       <OpaqueData>

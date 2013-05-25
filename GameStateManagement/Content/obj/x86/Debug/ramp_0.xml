@@ -3,7 +3,7 @@
   <Asset Type="Graphics:NodeContent">
     <Name>RootNode</Name>
     <Identity>
-      <SourceFilename>G:\Users\Laurence\Documents\ITP380\Final Project Trunk\GameStateManagement\Content\ramp.fbx</SourceFilename>
+      <SourceFilename>G:\Users\Laurence\Documents\ITP380\goldberg-good\GameStateManagement\Content\ramp.fbx</SourceFilename>
       <SourceTool>FbxImporter</SourceTool>
     </Identity>
     <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
@@ -48,7 +48,7 @@
     <Resource ID="#Resource1" Type="Graphics:BasicMaterialContent">
       <Name>Material__untitled_003</Name>
       <Identity>
-        <SourceFilename>G:\Users\Laurence\Documents\ITP380\Final Project Trunk\GameStateManagement\Content\ramp.fbx</SourceFilename>
+        <SourceFilename>G:\Users\Laurence\Documents\ITP380\goldberg-good\GameStateManagement\Content\ramp.fbx</SourceFilename>
         <SourceTool>FbxImporter</SourceTool>
       </Identity>
       <OpaqueData>

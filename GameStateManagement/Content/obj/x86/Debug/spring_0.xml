@@ -3,7 +3,7 @@
   <Asset Type="Graphics:MeshContent">
     <Name>Cylinder</Name>
     <Identity>
-      <SourceFilename>G:\Users\Laurence\Documents\ITP380\Final Project Trunk\GameStateManagement\Content\spring.fbx</SourceFilename>
+      <SourceFilename>G:\Users\Laurence\Documents\ITP380\goldberg-good\GameStateManagement\Content\spring.fbx</SourceFilename>
       <SourceTool>FbxImporter</SourceTool>
     </Identity>
     <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
@@ -26,7 +26,7 @@
     <Resource ID="#Resource1" Type="Graphics:BasicMaterialContent">
       <Name>Material__untitled</Name>
       <Identity>
-        <SourceFilename>G:\Users\Laurence\Documents\ITP380\Final Project Trunk\GameStateManagement\Content\spring.fbx</SourceFilename>
+        <SourceFilename>G:\Users\Laurence\Documents\ITP380\goldberg-good\GameStateManagement\Content\spring.fbx</SourceFilename>
         <SourceTool>FbxImporter</SourceTool>
       </Identity>
       <OpaqueData>

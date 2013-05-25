@@ -3,7 +3,7 @@
   <Asset Type="Graphics:MeshContent">
     <Name>Handle</Name>
     <Identity>
-      <SourceFilename>G:\Users\Laurence\Documents\ITP380\Final Project Trunk\GameStateManagement\Content\wholehammer.fbx</SourceFilename>
+      <SourceFilename>G:\Users\Laurence\Documents\ITP380\goldberg-good\GameStateManagement\Content\wholehammer.fbx</SourceFilename>
       <SourceTool>FbxImporter</SourceTool>
     </Identity>
     <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
@@ -26,7 +26,7 @@
     <Resource ID="#Resource1" Type="Graphics:BasicMaterialContent">
       <Name>Material_003__untitled_002</Name>
       <Identity>
-        <SourceFilename>G:\Users\Laurence\Documents\ITP380\Final Project Trunk\GameStateManagement\Content\wholehammer.fbx</SourceFilename>
+        <SourceFilename>G:\Users\Laurence\Documents\ITP380\goldberg-good\GameStateManagement\Content\wholehammer.fbx</SourceFilename>
         <SourceTool>FbxImporter</SourceTool>
       </Identity>
       <OpaqueData>

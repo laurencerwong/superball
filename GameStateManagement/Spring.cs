@@ -36,7 +36,7 @@ namespace GameStateManagement
         /// </summary>
         public override void Initialize()
         {
-            fMass = 1000.0f;
+            fMass = 100.0f;
             base.Initialize();
             m_fScale = 1.0f;
             restitution = 0.0f;
